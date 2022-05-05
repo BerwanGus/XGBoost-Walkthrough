@@ -9,9 +9,9 @@ Also view and run the code on Kaggle: https://www.kaggle.com/code/gustavoliberad
 This notebook uses data from datasets provided as part of the Kaggle competition Titanic - Machine Learning from Disaster. See original link: https://www.kaggle.com/competitions/titanic
 
 
-# From the official data description:
+## From the official data description:
 
-# Variable Notes
+### Variable Notes
 pclass: A proxy for socio-economic status (SES)
 1st = Upper
 2nd = Middle
